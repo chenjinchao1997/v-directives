@@ -1,0 +1,11 @@
+{
+  "name": "@chenjinchao/v-directives",
+  "version": "1.0.0",
+  "description": "",
+  "main": "directives.js",
+  "scripts": {
+  },
+  "keywords": ["v-debounce", "v-throttle"],
+  "author": "chenjinchao",
+  "license": "ISC"
+}
